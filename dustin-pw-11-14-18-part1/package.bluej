@@ -1,10 +1,10 @@
 #BlueJ package file
 objectbench.height=76
-objectbench.width=658
+objectbench.width=657
 package.editor.height=443
-package.editor.width=560
-package.editor.x=1019
-package.editor.y=288
+package.editor.width=559
+package.editor.x=1010
+package.editor.y=221
 package.numDependencies=0
 package.numTargets=1
 package.showExtends=true
@@ -14,8 +14,8 @@ target1.appletHeight=500
 target1.appletWidth=500
 target1.editor.height=700
 target1.editor.width=900
-target1.editor.x=1078
-target1.editor.y=469
+target1.editor.x=1073
+target1.editor.y=163
 target1.height=50
 target1.name=risingSun
 target1.numberAppletParameters=0
