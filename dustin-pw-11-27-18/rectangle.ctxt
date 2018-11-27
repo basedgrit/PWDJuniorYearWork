@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ begin()
+comment1.params=p
+comment1.target=void\ onMouseMove(objectdraw.Location)
+comment2.params=pressPoint
+comment2.target=void\ onMousePress(objectdraw.Location)
+comment3.params=dragPoint
+comment3.target=void\ onMouseDrag(objectdraw.Location)
+comment4.params=p
+comment4.target=void\ onMouseExit(objectdraw.Location)
+numComments=5
