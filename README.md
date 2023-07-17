@@ -1,2 +1,2 @@
 # javaWork
-Java projects for Lynn Vocational Institute of Technology's Computer Programming and Web Development shop 
+Java projects for Lynn Vocational Technical Institute's Computer Programming and Web Development shop 
